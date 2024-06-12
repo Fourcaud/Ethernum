@@ -1,0 +1,183 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Thumbnails
+*.orig
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.idb
+*.pdb
+
+# Compiled Object files #
+#########################
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers #
+#######################
+*.gch
+*.pch
+
+# Compiled Static libraries #
+#############################
+*.lib
+*.a
+*.la
+*.lo
+
+# Compiled Dynamic libraries #
+##############################
+*.dylib
+*.so
+*.dll
+
+# Fortran module files #
+########################
+*.mod
+*.smod
+
+# Compiled Python files #
+#########################
+*.pyc
+*.pyo
+
+# Backup & report files #
+#########################
+*.bak
+*.old
+*.log
+*.swp
+*.swo
+*.err
+*.out
+*.ps
+*.pdf
+*.dat
+*.bib
+
+# Unity3D generated meta files
+##############################
+*.pidb
+*.booproj
+*.pidb.meta
+*.booproj.meta
+*.unityproj
+*.sln
+*.sln.docstates
+
+# Unity3D generated file on crash reports
+#########################################
+sysinfo.txt
+
+# Builds
+#######
+*.apk
+*.aab
+*.unitypackage
+Build/
+
+# Windows image file caches
+###########################
+Thumbs.db
+
+# Folder config file
+####################
+Desktop.ini
+
+# Linux directory file
+######################
+.directory
+
+# JetBrains Rider
+#################
+.idea/
+.idea.meta
+*.sublime-project
+*.sublime-workspace
+
+# Sublime Text
+##############
+*.sublime*
+
+# Mono auto generated files
+###########################
+mono_crash.*
+mono_crash.meta
+
+# VS Code
+#########
+.vscode/
+
+# MacOS Packages
+#################
+*.dmg
+
+# Microsoft Visual Studio
+#########################
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.opendb
+*.VC.db
+*.prefab.unitypackage
+*.meta.unitypackage
+
+# Rider
+#######
+.idea/
+
+# Ignore Unity Cache Directory
+##############################
+/[Ll]ibrary/
+
+# Ignore Temporary Unity Files
+##############################
+/[Tt]emp/
+
+# Ignore Build Results
+######################
+/[Bb]uild/
+
+# Ignore Auto-generated VS/MD/Consulo Solution/Project files
+###########################################################
+ExportedObj/
+.consulo/
+.localhistory/
+*.pidb
+*.booproj
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.pidb.meta
+*.unityproj
+*.dll.sln
+*.dll.csproj
